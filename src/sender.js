@@ -1,6 +1,6 @@
 import { parser } from 'rollbar';
 import LoggerWraper from './logger';
-import uuid from 'node-uuid';
+import uuid from 'uuid';
 import merge from 'lodash.merge';
 import os from 'os';
 import BB from 'bluebird';

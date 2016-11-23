@@ -9,9 +9,9 @@
     "file-async": "^0.2.0",
     "jstream": "^0.2.8",
     "lodash.merge": "^3.3.2",
-    "node-uuid": "^1.4.7",
     "request": "^2.67.0",
-    "rollbar": "^0.5.11"
+    "rollbar": "^0.5.11",
+    "uuid": "^3.0.0"
   },
   "optionalDependencies": {
     "winston": "^2.1.0"
